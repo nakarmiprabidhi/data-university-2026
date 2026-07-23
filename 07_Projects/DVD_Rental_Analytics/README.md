@@ -52,3 +52,15 @@ DVD_Rental_Analytics/
 ├── Documentation/
 ├── Images/
 └── README.md
+
+## Current Status
+
+- [x] PostgreSQL DVD Rental database restored
+- [x] Project repository created
+- [x] Executive KPI analysis (KPI 1–3)
+- [ ] Rental Analysis
+- [ ] Revenue Analysis
+- [ ] Python Data Extraction
+- [ ] Power BI Dashboard
+- [ ] Tableau Dashboard
+- [ ] AWS Architecture
