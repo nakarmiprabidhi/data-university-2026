@@ -34,3 +34,32 @@ Document any errors, incorrect predictions, or syntax issues encountered today.
 - Calculate active and inactive customers.
 - Calculate customers per store.
 - Add additional executive KPIs.
+
+## Day 2 - Executive Dashboard KPIs
+
+### Business Tickets Completed
+
+- DA-001 - Total Customers
+- DA-002 - Active vs Inactive Customers
+- DA-003 - Customers Per Store
+
+### SQL Concepts Used
+
+- COUNT()
+- GROUP BY
+- ORDER BY
+- Aggregate Functions
+
+### Business Insights
+
+- Total Customers: 599
+- Active Customers: 584
+- Inactive Customers: 15
+- Store 1 Customers: 326
+- Store 2 Customers: 273
+
+### Lessons Learned
+
+- Validate data before assuming a column represents the business meaning.
+- `activebool` and `active` are different columns with different purposes.
+- Use `ORDER BY` to produce consistent report output.
